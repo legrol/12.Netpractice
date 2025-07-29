@@ -2,7 +2,7 @@
 
 Una colección de ejercicios de práctica de programación de redes en C, que cubre desde los conceptos básicos de sockets hasta la implementación de protocolos simples. Cada módulo es autónomo y contiene su propio Makefile y un ejercicio con objetivos claros.
 
-![Módulos y Funcionalides](https://img.shields.io/badge/"Módulos y Funcionalidades"-blue?style=for-the-badge)
+![Módulos y Funcionalides](https://img.shields.io/badge/Módulos_y_Funcionalidades-blue?style=for-the-badge)
 
 | Módulo       | Descripción                                                                 |
 |:------------:|------------------------------------------------------------------------------|
